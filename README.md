@@ -4,6 +4,7 @@ Crear una máquina virtual en Amazon EC2.
 
 La Amazon Machine Image (AMI) que vamos a seleccionar para esta práctica será una Community AMI de Bitnami con la última versión de WordPress.
 https://bitnami.com/stack/wordpress/cloud/aws/amis
+
 https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#LaunchInstanceWizard:ami=ami-05bb13389b5d8cb2e
 
 tendremos que añadir 2g de ram
